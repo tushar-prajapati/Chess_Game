@@ -1,2 +1,2 @@
-#Brain Teaser's Chess
-###(Mini-Project)
+Brain Teaser's Chess
+(Mini-Project)
